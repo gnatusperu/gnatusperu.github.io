@@ -5,9 +5,7 @@ User-agent: googlebot-image
 Disallow: 
 User-agent: googlebot-mobile
 Disallow: 
-User-agent: MSNBot
-Disallow: 
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://gnatusperu.github.io/sitemap.xml
+Sitemap: https://gnatusperu.github.io/
