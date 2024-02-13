@@ -1,21 +1,52 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-  <url>
-    <loc>https://gnatusperu.github.io</loc>
-    <lastmod>2023-12-15</lastmod>
-    <image:image>
-      <image:loc>https://gnatusperu.github.io/assets/images/logo/logo_2.png</image:loc>
-      <!--ERROR - Object reference not set to an instance of an object.-->
-      <url>
-        <loc>https://gnatusperu.github.io/index.html</loc>
-        <lastmod>2023-12-15</lastmod>
-        <image:image>
-          <image:loc>https://gnatusperu.github.io/assets/images/logo/logo_2.png</image:loc>
-          <!--ERROR - Object reference not set to an instance of an object.-->
-        </image:image>
-        <!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
-      </url>
-    </image:image>
-  </url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://gnatusperu.github.io/</loc>
+  <lastmod>2024-02-13T04:09:15+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://gnatusperu.github.io/index.html</loc>
+  <lastmod>2024-02-13T04:09:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gnatusperu.github.io/nosotros.html</loc>
+  <lastmod>2024-02-13T04:09:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gnatusperu.github.io/faq.html</loc>
+  <lastmod>2024-02-13T04:09:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gnatusperu.github.io/envios.html</loc>
+  <lastmod>2024-02-13T04:09:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gnatusperu.github.io/contacto.html</loc>
+  <lastmod>2024-02-13T04:09:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gnatusperu.github.io/tiendas.html</loc>
+  <lastmod>2024-02-13T04:09:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gnatusperu.github.io/cookies.html</loc>
+  <lastmod>2024-02-13T04:09:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
 </urlset>
